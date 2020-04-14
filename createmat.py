@@ -241,7 +241,7 @@ def read_image_label_all_vector(image_file,label_file):
 #################################################
 '''
 模块测试
-从训练样本中读取偏移offset = 4000,数量number = 10张图片，并通过
+从训练样本中读取偏移offset = 3000,数量number = 10张图片，并通过
 '''
 if __name__ == '__main__':
 	print('\n\n')
