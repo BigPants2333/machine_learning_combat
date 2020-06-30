@@ -1,4 +1,4 @@
-# 基于朴素贝叶斯实现男女声音辨别  
+# 基于朴素贝叶斯实现男女声性别辨别  
 1. 数据集文件为voice.csv  
 * 详情请见：https://www.kaggle.com/primaryobjects/voicegender  
 2. 需要装载的python库为：matplotlib，numpy，pandas，sklearn  
